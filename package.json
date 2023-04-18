@@ -1,6 +1,6 @@
 {
   "name": "@thijmen-os/developmentkit",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "description": "the development sdk for a thijmenos application",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
