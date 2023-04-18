@@ -1,6 +1,6 @@
 import { Exit } from "@thijmen-os/common";
-import { callbackFunction } from "src/types/types";
-import OS from "src/windowCommands";
+import { callbackFunction } from "../types/types";
+import OS from "../windowCommands";
 
 export function startProcess(
   exePath: string,

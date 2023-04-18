@@ -1,6 +1,6 @@
 import { Exit, MemoryAccess } from "@thijmen-os/common";
 import { callbackFunction } from "src/types/types";
-import OS from "src/windowCommands";
+import OS from "../windowCommands";
 
 export function MemAlloc(
   args: { memoryKey: string; memoryAccess: Array<MemoryAccess> },
