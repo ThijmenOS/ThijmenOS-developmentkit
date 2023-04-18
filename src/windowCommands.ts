@@ -1,4 +1,4 @@
-import { callbackFunction, params } from "./types";
+import { callbackFunction, params } from "./types/types";
 
 class OS {
   public static listen(callback: callbackFunction) {

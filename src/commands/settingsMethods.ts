@@ -1,6 +1,6 @@
 import { PermissionRequestDto, Permissions } from "@thijmen-os/common";
-import OS from "./osMethods";
-import { callbackFunction } from "./types";
+import OS from "../windowCommands";
+import { callbackFunction } from "../types/types";
 
 export function AskPermission(
   permission: Permissions,

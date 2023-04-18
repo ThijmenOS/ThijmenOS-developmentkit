@@ -1,4 +1,4 @@
-import OS from "./osMethods";
+import OS from "./windowCommands";
 
-export * from "./applicationMethods";
+export * from "./commands";
 export default OS;
